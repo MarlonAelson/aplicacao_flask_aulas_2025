@@ -1,6 +1,3 @@
 FLASK_APP=app:app
-SECRET_KEY=marlon
-DB_USERNAME=sql10784480
-DB_PASSWORD=EDnzsASJUq
-DB_HOST=sql10.freesqldatabase.com
-DB_DATABASE=sql10784480
+SECRET_KEY=sua-palavra-secreta
+DB_PATH=dbase/db.sqlite3
